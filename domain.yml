@@ -29,7 +29,7 @@ slots:
   goal:
     type: unfeaturized
     
-responses:
+templates:
   utter_greet:
   - text: "Hey! How are you?"
 
