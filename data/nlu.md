@@ -18,6 +18,18 @@
 - of course
 - that sounds good
 - correct
+- sure
+- ok
+- why not
+- ok great
+- yes I did
+- yeah, great
+- pretty good
+- fine
+- You bet
+- I sure did
+- more or less
+- good
 
 ## intent:deny
 - no
@@ -26,6 +38,14 @@
 - don't like that
 - no way
 - not really
+- none
+- absolutely not
+- no thanks
+- didn't do any
+- no I didn't
+- could have been better
+- not great
+- nope
 
 ## intent:bot_challenge
 - are you a bot?
@@ -91,31 +111,6 @@
 - nevermind
 - I want to do something else
 - I changed my mind
-
-## intent:deny
-…
-- none
-- absolutely not
-- no thanks
-- didn't do any
-- no I didn't
-- could have been better
-- not great
-- nope
-
-## intent:affirm
-…
-- sure
-- ok
-- why not
-- ok great
-- yes I did
-- yeah, great
-- pretty good
-- fine
-- You bet
-- I sure did
-- more or less
 
 ## intent:thankyou
 - okay great thanks
