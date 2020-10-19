@@ -5,6 +5,7 @@
 - good morning
 - good evening
 - hey there
+- Hello
 
 ## intent:goodbye
 - bye
@@ -92,6 +93,7 @@
 - a lot of carbs
 - too much fatty food
 - Get more exercise
+- I want to learn a new programming language
 
 ## intent:out_of_scope
 - that's not what I want to do
