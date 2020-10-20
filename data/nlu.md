@@ -6,6 +6,7 @@
 - good evening
 - hey there
 - Hello
+- hELLO
 
 ## intent:goodbye
 - bye
@@ -32,6 +33,10 @@
 - more or less
 - good
 - I am doing good
+- yes I did exercise
+- I did exercise
+- I am well
+- I am ok
 
 ## intent:deny
 - no
@@ -48,6 +53,7 @@
 - could have been better
 - not great
 - nope
+- No
 
 ## intent:bot_challenge
 - are you a bot?
@@ -95,6 +101,11 @@
 - too much fatty food
 - Get more exercise
 - I want to learn a new programming language
+- [8 hours](sleep)
+- [football](exercise)
+- I want to learn rasa
+- I slept for [8 hours](sleep)
+- I played [football](exercise)
 
 ## intent:out_of_scope
 - that's not what I want to do
