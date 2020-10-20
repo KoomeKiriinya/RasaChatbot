@@ -35,7 +35,7 @@ responses:
   utter_iamabot:
   - text: I am a bot, powered by Rasa.
   utter_ask_confirm_exercise:
-  - text: Did you exercise yesterday? Don't sweat it if you didn't run a full marathon
+  - text: Did you exercise yesterday?
   utter_ask_exercise:
   - text: What kind of exercise did you do 💪 ?
   utter_ask_sleep:
