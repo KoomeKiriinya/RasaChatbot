@@ -31,6 +31,7 @@
 - I sure did
 - more or less
 - good
+- I am doing good
 
 ## intent:deny
 - no
