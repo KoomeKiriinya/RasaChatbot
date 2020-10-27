@@ -1,4 +1,3 @@
-
 ## say goodbye
 * goodbye
   - utter_goodbye
@@ -39,6 +38,3 @@
     - form{"name": null}
     - action_reset_slots
     - utter_goodbye
-
-
-

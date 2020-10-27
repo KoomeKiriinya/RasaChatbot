@@ -37,6 +37,7 @@
 - I did exercise
 - I am well
 - I am ok
+- Im easy
 
 ## intent:deny
 - no
