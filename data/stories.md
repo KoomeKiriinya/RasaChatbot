@@ -6,7 +6,7 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
-  
+
 ## mental health path 1
 * greet
     - utter_greet
@@ -35,19 +35,6 @@
 * deny
     - utter_goodbye
 
-<!-- ## survey stop
-* greet
-    - utter_greet
-* affirm
-    - health_form
-    - form{"name": "health_form"}
-* out_of_scope
-    - utter_ask_continue
-* deny
-    - action_deactivate_form
-    - form{"name": null}
-    - action_reset_slots
-    - utter_goodbye -->
 
 
 

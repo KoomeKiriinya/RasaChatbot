@@ -84,7 +84,4 @@ responses:
   - text: No problem :)
   utter_ask_continue:
   - text: Sorry, I don't quite understand. Do you want to continue?
-actions:
-- action_reset_slots
-forms:
-- health_form
+

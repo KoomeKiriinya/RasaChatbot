@@ -26,6 +26,7 @@
 - Life is not what I expected
 - Bad
 - I am losing my confidence
+- I am not well things are not going as expected
 
 ## intent: inform
 - Things have been difficult at [school](place)
