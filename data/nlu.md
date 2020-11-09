@@ -1,4 +1,4 @@
-## intent: greet
+## intent:greet
 - hey
 - hello
 - hi
@@ -7,17 +7,17 @@
 - hey there
 - Hello
 
-## intent: goodmood
+## intent:goodmood
 - I am well
 - I am doing well
-- I am doing 
+- I am doing
 - Things are well
 - Life is good
 - Fine
 - Good
 - I am easy
 
-## intent: sadmood
+## intent:sadmood
 - How do I begin to explain to someone what I feel? (crying)
 - I am not feeling well
 - Things are not going well
@@ -27,8 +27,9 @@
 - Bad
 - I am losing my confidence
 - I am not well things are not going as expected
+- I am not well thing are not going as expected
 
-## intent: inform
+## intent:inform
 - Things have been difficult at [school](place)
 - Things have been difficult at [home](place)
 - [school](place) has been hard
@@ -38,10 +39,6 @@
 - I am a wierdo
 - I have no money to attend campus parties
 - I do not think they would understand
-
-
-
-
 
 ## intent:goodbye
 - bye
@@ -92,14 +89,6 @@
 - am I talking to a bot?
 - am I talking to a human?
 
-## intent: inform
-- Things have been difficult at [school](place)
-- Things have been difficult at [home](place)
-- Things are just not ok
-- Everyone hates me
-- I am a wierdo
-- I have no money to attend campus parties
-
 ## intent:out_of_scope
 - that's not what I want to do
 - wait stop
@@ -124,6 +113,4 @@
 - thank you
 - sure thanks
 - thanks bye
-- Thanks I will reach out to them  
-
-
+- Thanks I will reach out to them
