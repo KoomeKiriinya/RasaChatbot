@@ -39,6 +39,7 @@
 - I am a wierdo
 - I have no money to attend campus parties
 - I do not think they would understand
+- My brother is not feeling well he has been sick lately.
 
 ## intent:goodbye
 - bye
