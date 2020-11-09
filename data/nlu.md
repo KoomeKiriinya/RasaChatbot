@@ -40,6 +40,7 @@
 - I have no money to attend campus parties
 - I do not think they would understand
 - My brother is not feeling well he has been sick lately.
+- My parent has not been so well. It really hurts me
 
 ## intent:goodbye
 - bye
