@@ -1,4 +1,4 @@
-## intent:greet
+## intent: greet
 - hey
 - hello
 - hi
@@ -6,6 +6,41 @@
 - good evening
 - hey there
 - Hello
+
+## intent: goodmood
+- I am well
+- I am doing well
+- I am doing 
+- Things are well
+- Life is good
+- Fine
+- Good
+- I am easy
+
+## intent: sadmood
+- How do I begin to explain to someone what I feel? (crying)
+- I am not feeling well
+- Things are not going well
+- I cannot explain how I am feeling
+- I don’t deserve to live
+- Life is not what I expected
+- Bad
+- I am losing my confidence
+
+## intent: inform
+- Things have been difficult at [school](place)
+- Things have been difficult at [home](place)
+- [school](place) has been hard
+- [home](place) has been tough
+- Things are just not ok
+- Everyone hates me
+- I am a wierdo
+- I have no money to attend campus parties
+- I do not think they would understand
+
+
+
+
 
 ## intent:goodbye
 - bye
@@ -48,6 +83,7 @@
 - could have been better
 - not great
 - nope
+- I do not think the would be of any help
 
 ## intent:bot_challenge
 - are you a bot?
@@ -55,46 +91,13 @@
 - am I talking to a bot?
 - am I talking to a human?
 
-## intent:inform
-- a full [8 hours](sleep)
-- only [four hours](sleep)
-- about [six hours](sleep)
-- [low](stress)
-- [medium](stress)
-- [high](stress) stress right now
-- Yes, I went for a [run](exercise)
-- uh huh an hour of [yoga](exercise)
-- yep, I went for a [hike](exercise)
-- Yes I took the dog for a [walk](exercise)
-- Yeah, I played [tennis](exercise)
-- I went [swimming](exercise)
-- Took a [spin class](exercise)
-- Did some [boxing](exercise)
-- [rock climbing](exercise)
-- played some [basketball](exercise)
-- played [football](exercise)
-- I did a [workout](exercise) video
-- I want to get up early and go for a run
-- Be more patient with my family
-- Try to be a better friend
-- Make sure to eat better tomorrow
-- eat less junk food
-- eat better
-- spend less time on my phone
-- don't procrastinate
-- Go to bed earlier
-- Don't stay up so late
-- try to make some time to meditate
-- i ate pretty healthy overall
-- lots of fruits and vegetables
-- I ate a salad
-- too many snacks
-- too many sweets
-- too much junk food
-- a lot of carbs
-- too much fatty food
-- Get more exercise
-- I want to learn a new programming language
+## intent: inform
+- Things have been difficult at [school](place)
+- Things have been difficult at [home](place)
+- Things are just not ok
+- Everyone hates me
+- I am a wierdo
+- I have no money to attend campus parties
 
 ## intent:out_of_scope
 - that's not what I want to do
@@ -120,3 +123,6 @@
 - thank you
 - sure thanks
 - thanks bye
+- Thanks I will reach out to them  
+
+

@@ -10,26 +10,48 @@ intents:
 - inform
 - thankyou
 - out_of_scope
+- goodmood
+- sadmood
 entities:
-- exercise
-- sleep
-- stress
+  - place
 slots:
-  confirm_exercise:
-    type: unfeaturized
-  diet:
-    type: unfeaturized
-  exercise:
-    type: unfeaturized
-  goal:
-    type: unfeaturized
-  sleep:
-    type: unfeaturized
-  stress:
+  place:
     type: unfeaturized
 responses:
   utter_greet:
   - text: Hey! How are you?
+  utter_could_you_explain:
+  - text: "Could you explain to me what is going on? I am here for you. \n
+          Is there anything in particular bothering you"
+  utter_reason:
+  - text: Is there a reason for this?
+  utter_understand_anything_else:
+  - buttons:
+    - payload: '/deny'
+      title: "No"
+    - payload: '/affirm'
+      title: "Yes" 
+    text: I understand how things may be difficult for you. Is there anything else bothering you?
+  utter_shall_contact:
+  - text: A counsellor shall reach out to you. It will be well
+  utter_ask_anybody:
+  - buttons:
+    - payload: '/deny'
+      title: "No"
+    - payload: '/affirm'
+      title: "Yes"
+    text: is there anybody else you would like to talk to about this situation perhaps you lecturers?
+  utter_do_not_burden:
+  - text: Try not to burden yourself with negative thoughts. I am sure the lecturers could be of help.
+  utter_ask_counsellor:
+  - buttons:
+    - payload: '/deny'
+      title: "No"
+    - payload: '/affirm'
+      title: "Yes" 
+    text: Would you like me to recommend you to the university counsellor for a friendly chat?
+  utter_kindly_go_ahead:
+  - text: Kindly go ahead
   utter_goodbye:
   - text: Bye
   utter_iamabot:

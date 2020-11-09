@@ -6,19 +6,28 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
-
-## survey happy path
+  
+## mental health path 1
 * greet
     - utter_greet
+* sadmood
+    - utter_could_you_explain
+* sadmood
+    - utter_reason
+* inform
+    - utter_understand_anything_else
 * affirm
-    - health_form
-    - form{"name": "health_form"}
-    - form{"name": null}
-    - utter_slots_values
-    - action_reset_slots
+    - utter_kindly_go_ahead
+* inform
+    - utter_ask_anybody
+* deny
+    - utter_do_not_burden
 * thankyou
-    - utter_no_worries
-    - utter_goodbye
+    - utter_ask_counsellor
+* affirm
+    - utter_shall_contact
+
+
 
 ## no survey
 * greet
@@ -26,7 +35,7 @@
 * deny
     - utter_goodbye
 
-## survey stop
+<!-- ## survey stop
 * greet
     - utter_greet
 * affirm
@@ -38,7 +47,7 @@
     - action_deactivate_form
     - form{"name": null}
     - action_reset_slots
-    - utter_goodbye
+    - utter_goodbye -->
 
 
 
